@@ -46,7 +46,7 @@ body::after {
   clear: both;
 }
 
-/* ---------- Centered horizontal navigation ---------- */
+/*  Centered navigation bar */
 header {
   width: 956px;
   background-color: var(--black);
@@ -88,7 +88,7 @@ nav a:focus {
   background-color: var(--green);
 }
 
-/* ---------- Style element 1: h1 ---------- */
+/*  Style element 1: h1  */
 h1 {
   margin: 0 40px 20px 40px;
   padding-bottom: 12px;
@@ -99,7 +99,7 @@ h1 {
   text-shadow: 0 0 12px rgba(141, 255, 168, 0.5);
 }
 
-/* ---------- Style element 2: h2 ---------- */
+/*  Style element 2: h2  */
 h2 {
   clear: both;
   margin: 30px 40px 14px 40px;
@@ -110,7 +110,7 @@ h2 {
   border-left: 10px solid var(--green-dark);
 }
 
-/* ---------- Style element 3: paragraphs ---------- */
+/*  Style element 3: paragraphs  */
 p {
   margin: 12px 40px;
   padding: 12px 18px;
@@ -121,7 +121,7 @@ p {
   border-left: 5px solid var(--green);
 }
 
-/* ---------- Style element 4: images ---------- */
+/*  Style element 4: images  */
 img {
   max-width: 100%;
   height: auto;
@@ -138,7 +138,7 @@ img {
   margin: 12px 40px 16px 20px;
 }
 
-/* An image placed directly under a heading is centered instead */
+/* An image placed directly under a heading is centered */
 h2 + .imageR {
   float: none;
   display: block;
@@ -146,7 +146,7 @@ h2 + .imageR {
   margin: 12px auto 16px auto;
 }
 
-/* ---------- Style element 5: video (iframe) ---------- */
+/*  Style element 5: video (iframe)  */
 iframe {
   display: block;
   width: 560px;
@@ -157,7 +157,7 @@ iframe {
   box-shadow: 0 0 14px rgba(141, 255, 168, 0.35);
 }
 
-/* ---------- Links and lists (for other pages that share this file) ---------- */
+/*  Links and lists */
 a {
   color: var(--green);
 }

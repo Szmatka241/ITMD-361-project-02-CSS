@@ -77,7 +77,7 @@ nav a:focus {
   background-color: var(--white);
 }
 
-/* h1 MEOW */
+/* style element 1 h1 MEOW */
 h1 {
   margin: 0 40px 10px 40px;
   padding-bottom: 10px;
@@ -88,7 +88,7 @@ h1 {
   border-bottom: 4px solid var(--grey-mid);
 }
 
-/*   h2  */
+/*  Style element 2 h2  */
 h2 {
   margin: 30px 40px 12px 40px;
   padding: 6px 14px;
@@ -104,7 +104,7 @@ h2:empty {
   display: none;
 }
 
-/*  h3 (how to contact me) */
+/* Style element 3 h3 (how to contact me) */
 h3 {
   margin: 6px 40px;
   font-family: Arial, Helvetica, sans-serif;
@@ -115,7 +115,7 @@ h3 {
   color: var(--grey-text);
 }
 
-/* Paragraphs */
+/* Style element 4 Paragraphs */
 p {
   margin: 12px 40px 6px 40px;
   padding: 10px 16px;
@@ -124,7 +124,7 @@ p {
   border-left: 5px solid var(--red);
 }
 
-/* Lists */
+/* Style element 5 Lists */
 body > ul {
   margin: 4px 40px 12px 40px;
   padding: 12px 20px 12px 42px;
